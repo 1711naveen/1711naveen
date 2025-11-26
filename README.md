@@ -53,46 +53,7 @@ const naveen = {
 
 <div align="center">
 
-### 🚀 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-### ⚙️ Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css,react,nextjs,redux,tailwind,bootstrap,materialui,spring,nodejs,express,mongodb,mysql,postgres,firebase,aws,vercel,git,github,vscode,postman,figma,docker,linux&perline=15" />
 
 </div>
 
@@ -101,16 +62,16 @@ const naveen = {
 ## 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1711naveen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1711naveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1711naveen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1711naveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1711naveen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=1711naveen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1711naveen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1711naveen&theme=tokyonight" width="100%"/>
 </div>
 
 ---
@@ -245,28 +206,78 @@ const naveen = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://naveen17.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenyadav1711/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/coder1729)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen_1711/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/1711naveen)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/zoot)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/zoot17)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/naveen_yadav_1711/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61555672035165)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yn.naveen00@gmail.com)
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://naveen17.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="65" height="65" alt="Portfolio" />
+        <br><b>Portfolio</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/naveenyadav1711/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="65" height="65" alt="LinkedIn" />
+        <br><b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://x.com/coder1729" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="65" height="65" alt="Twitter" />
+        <br><b>Twitter</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://medium.com/@naveen_1711/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/medium-logo.png" width="65" height="65" alt="Medium" />
+        <br><b>Medium</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://leetcode.com/u/1711naveen" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="65" height="65" alt="LeetCode" />
+        <br><b>LeetCode</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://codeforces.com/profile/zoot" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="65" height="65" alt="CodeForces" />
+        <br><b>CodeForces</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.codechef.com/users/zoot17" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/chef.png" width="65" height="65" alt="CodeChef" />
+        <br><b>CodeChef</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.instagram.com/naveen_yadav_1711/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65" height="65" alt="Instagram" />
+        <br><b>Instagram</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.facebook.com/profile.php?id=61555672035165" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="65" height="65" alt="Facebook" />
+        <br><b>Facebook</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:yn.naveen00@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="65" height="65" alt="Gmail" />
+        <br><b>Gmail</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📄 [Download My Resume](https://docs.google.com/document/d/18X-eVxsy13HbSFYaqHe81_-ONlJHEIi3Ekpyam6tkxo/edit?tab=t.0#heading=h.1lhgbx7fuf71)
+<br>
 
-</div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-  
-[![Spotify](https://novatorem-silk-three.vercel.app/api/spotify)](https://open.spotify.com/user/31k6puxvsqkzbb3xklouraqy4giq)
+<a href="https://docs.google.com/document/d/18X-eVxsy13HbSFYaqHe81_-ONlJHEIi3Ekpyam6tkxo/edit?tab=t.0#heading=h.1lhgbx7fuf71" target="_blank">
+  <img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume" height="35"/>
+</a>
 
 </div>
 
